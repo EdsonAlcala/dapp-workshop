@@ -67,9 +67,12 @@ Resources to learn more about Solidity
     https://monax.io/docs/solidity/
 
 
-
 Material para Slide in Design
     The font face
     Don't make me think
     The typography electronic website
-    
+
+Recommended links
+    https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+	https://github.com/dvf/blockchain
